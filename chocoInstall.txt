@@ -1,0 +1,13 @@
+choco install vlc
+choco install 7zip.install
+choco install googlechrome
+choco install curl
+choco install python3
+choco install malwarebytes
+choco install putty
+choco install openvpn
+choco install dropbox
+choco install vscode
+choco install vscode-powershell
+choco install vscode-csharp
+choco install slack
