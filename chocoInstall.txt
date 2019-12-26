@@ -12,3 +12,4 @@ choco install vscode-powershell
 choco install vscode-csharp
 choco install slack
 choco install intellijidea-community
+choco install jre8
